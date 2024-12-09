@@ -1,5 +1,5 @@
 <h1 align="center">Setup Scripts</h1>
-Scripts I use to setup applications quickly on my server.
+<div align="center"><img src="https://media2.giphy.com/media/yALcFbrKshfoY/200w.gif?cid=6c09b952cmgewei8r28f2du5gui4tyd81dihj2ilamckmc2a&ep=v1_gifs_search&rid=200w.gif&ct=g"></div>
 
 <br><br>
 
