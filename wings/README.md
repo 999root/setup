@@ -1,4 +1,6 @@
 
+https://technotim.live/posts/pterodactyl-game-server/
+
 ```
 sudo nano /etc/pterodactyl/config.yml
 ```
