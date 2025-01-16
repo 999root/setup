@@ -27,3 +27,12 @@ Installs Dockge to your server and creates it's dirs.
 ```
 git clone -b dockge --single-branch https://github.com/999root/setup.git
 ```
+
+<br><br>
+
+## [Pterodactyl Quick Install](https://github.com/999root/setup-scripts/tree/pterodactyl)
+### Installs Pterodactyl
+Contains Docker Compose files for both Pterodactyl Wings and Panel.
+```
+git clone -b pterodactyl --single-branch https://github.com/999root/setup.git
+```
