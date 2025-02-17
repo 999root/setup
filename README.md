@@ -1,6 +1,8 @@
 <h1 align="center">Setup Scripts</h1>
 <div align="center"><img src="https://media2.giphy.com/media/yALcFbrKshfoY/200w.gif?cid=6c09b952cmgewei8r28f2du5gui4tyd81dihj2ilamckmc2a&ep=v1_gifs_search&rid=200w.gif&ct=g"></div>
 
+<h2 align="center">Notice: These scripts are mainly for ubuntu and debian servers as they rely on the apt package manager.</h2>
+
 <br><br>
 
 ## [Docker Installer](https://github.com/999root/setup-scripts/tree/docker-install)
