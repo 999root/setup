@@ -6,15 +6,24 @@
 ## [Docker Installer](https://github.com/999root/setup-scripts/tree/docker-install)
 ### Installs docker
 Installs Docker to your ubuntu server.
+
+- Git
 ```
 git clone -b docker-install --single-branch https://github.com/999root/setup.git
 ```
+
+- Curl:
+```
+curl -fsSL https://raw.githubusercontent.com/999root/setup/docker-install/docker-install.sh | bash
+```
+
 
 <br><br>
 
 ## [Portainer Quick Install](https://github.com/999root/setup-scripts/tree/portainer)
 ### Installs portainer
 Installs portainer to your server.
+
 ```
 git clone -b portainer --single-branch https://github.com/999root/setup.git
 ```
