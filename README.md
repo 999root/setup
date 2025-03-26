@@ -5,6 +5,22 @@
 
 <br><br>
 
+## Quick Grab
+```
+git clone -b docker-install --single-branch https://github.com/999root/setup.git
+```
+```
+git clone -b portainer --single-branch https://github.com/999root/setup.git
+```
+```
+git clone -b dockge --single-branch https://github.com/999root/setup.git
+```
+```
+git clone -b pterodactyl --single-branch https://github.com/999root/setup.git
+```
+
+<br><br>
+
 ## [Docker Installer](https://github.com/999root/setup-scripts/tree/docker-install)
 ### Installs docker
 Installs Docker to your ubuntu server.
